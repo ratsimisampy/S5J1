@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-# README
 
-Je modifie le readme pour tester le wkfl github
+# Gossip on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Heroku's link page : https://rado-app.herokuapp.com/
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version 2.5.1
 
 * System dependencies
 
@@ -18,13 +13,7 @@ Things you may want to cover:
 
 * Database initialization
 
-* How to run the test suite
+* How to run
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
-=======
-NEW README
->>>>>>> 197bdb34a87ded105d2abe2278720927270e0392
